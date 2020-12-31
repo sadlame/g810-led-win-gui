@@ -1,0 +1,6 @@
+[submodule "g810-led"]
+	path = g810-led
+	url = https://github.com/sadlame/g810-led
+[submodule "libusb"]
+	path = libusb
+	url = https://github.com/libusb/libusb
